@@ -39,7 +39,7 @@ Para poder usar este repositorio necesitas lo siguiente:
 2. Realizar el circuito básico para programar el ESP32CAM
 3. Mosquitto MQTT instalado de forma local o via Docker Compose
 
-![]()
+![](https://github.com/hugoescalpelo/esp32cam-mqtt-json-no-bloqueante/blob/main/Imagenes/img01.png?raw=true)
 
 4. Instala a biblioteca PubSubClient de Nick O'Leary
 
